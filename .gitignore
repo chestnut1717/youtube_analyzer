@@ -146,4 +146,7 @@ cython_debug/
 api_key.txt
 examples/results_news.xlsx
 
+# files
+exam.py
+
 # End of https://www.toptal.com/developers/gitignore/api/python
